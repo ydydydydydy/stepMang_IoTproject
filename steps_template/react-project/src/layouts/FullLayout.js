@@ -24,7 +24,7 @@ const FullLayout = () => {
         {/********Content Area**********/}
         <div className="contentArea" style={contentAreaStyle}>
           {/********Middle Content**********/}
-          <Container className="p-4" fluid style={{height:"1500px"}}>
+          <Container className="p-4" fluid style={{height:"1600px"}}>
             <Outlet />
           </Container>
         </div>
