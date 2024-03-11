@@ -1,7 +1,8 @@
 ### 걸음망 프로젝트
 ---
 
-![stepMang2](https://github.com/ydydydydydy/stepMang_IoTproject/assets/140699908/952aa0d3-9b0b-4455-9e50-68ae3daf8614)
+![stepMang_logo](https://github.com/ydydydydydy/stepMang_IoTproject/assets/140699908/c07de905-f362-4e4f-b51c-ad4607eefc06)
+
 
 
 
